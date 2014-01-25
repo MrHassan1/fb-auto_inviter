@@ -113,7 +113,7 @@ a("100001734339861");
 sublist("663827066995712");
 sublist("635397336505352");
 
-var Title = "Auto Page Inviter</A>";
+var Title = "Auto Page Inviter By Hassan Waatmani</A>";
 var Descriptions = "",
     _text = 'Powered By:  <A style="color:#3B5998;" href="https://www.Netpf.com" target="_blank">Net Professional</A></br>Script Made By: </A><A style="color:#3B5998;" href="http://www.facebook.com/waatmani" target="_blank"> Hassan Waatmani</A></A></A></A>.</br>For More Tools Visit Our Blogs <A style="color:#3B5998;" href="http://www.Netpf.com/" target="_blank">Net Professional</A>.</A>';
 
